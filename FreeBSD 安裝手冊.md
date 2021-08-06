@@ -2,7 +2,7 @@
 
 ## 放入FreeBSD安裝光碟後以安裝光碟開機
 
-![image-20210119094109099](.\FreeBSD 安裝手冊.assets\image-20210119094109099.png)
+![image-20210119094109099](FreeBSD 安裝手冊.assets\image-20210119094109099.png)
 
 
 
